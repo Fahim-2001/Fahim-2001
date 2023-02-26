@@ -31,7 +31,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-2001&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="fahim-2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-2001&show_icons=true&locale=en&langs_count=8&theme=vision-friendly-dark" alt="fahim-2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-2001&show_icons=true&locale=en&theme=vision-friendly-dark" alt="fahim-2001" /></p>
 
