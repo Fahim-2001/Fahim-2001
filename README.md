@@ -14,11 +14,13 @@ Currently, I am working with React and NodeJS. I am mainly a MERN developer skil
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://mdyasiromar.netlify.app](https://mdyasiromar.netlify.app)
+- 👨‍💻 All of my projects are available at [Repository]([https://mdyasiromar.netlify.app](https://github.com/Fahim-2001?tab=repositories))
 
 - 💬 Ask me about **React and Node.**
 
 - 📫 How to reach me **mdyasirofficial2001@gmail.com**
+
+- 📡 Want to know me? [Portfolio](https://mdyasiromar.netlify.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ez-pTmQTQUm6QLZj_2yJpekN-jZ3Yxzg/view?usp=sharing](https://drive.google.com/file/d/1Ez-pTmQTQUm6QLZj_2yJpekN-jZ3Yxzg/view?usp=sharing)
 
