@@ -22,7 +22,7 @@ Currently, I am working with React and NodeJS. I am mainly a MERN developer skil
 
 - 📡 Want to know me? [Portfolio](https://mdyasiromar.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ez-pTmQTQUm6QLZj_2yJpekN-jZ3Yxzg/view?usp=sharing](https://drive.google.com/file/d/1Ez-pTmQTQUm6QLZj_2yJpekN-jZ3Yxzg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ez-pTmQTQUm6QLZj_2yJpekN-jZ3Yxzg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
