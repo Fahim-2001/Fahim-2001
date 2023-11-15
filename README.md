@@ -12,7 +12,7 @@ Currently, I am working with React and NodeJS. I am mainly a MERN developer skil
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [Repository](https://mdyasiromar.netlify.app](https://github.com/Fahim-2001?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repository]([https://github.com/Fahim-2001?tab=repositories])
 
 - 💬 Ask me about **React and Node.**
 
